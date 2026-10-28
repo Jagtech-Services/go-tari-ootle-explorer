@@ -4,7 +4,7 @@ import (
 	"context"
 	"testing"
 
-	"github.com/Snipa22/go-tari-ootle-explorer/internal/db"
+	"github.com/Jagtech-Services/go-tari-ootle-explorer/internal/db"
 )
 
 func TestStuckThreshold(t *testing.T) {

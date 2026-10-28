@@ -66,9 +66,9 @@ import (
 	"log"
 	"time"
 
-	"github.com/Snipa22/go-tari-grpc-lib/v3/tari_generated"
-	"github.com/Snipa22/go-tari-ootle-explorer/internal/db"
-	"github.com/Snipa22/go-tari-ootle-explorer/internal/indexerclient"
+	"github.com/Jagtech-Services/go-tari-grpc-lib/v3/tari_generated"
+	"github.com/Jagtech-Services/go-tari-ootle-explorer/internal/db"
+	"github.com/Jagtech-Services/go-tari-ootle-explorer/internal/indexerclient"
 )
 
 // ScanBatchSize is the number of block heights requested per GetBlockByHeight call -

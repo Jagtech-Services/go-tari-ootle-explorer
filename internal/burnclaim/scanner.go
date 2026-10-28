@@ -4,8 +4,8 @@ import (
 	"context"
 	"fmt"
 
-	"github.com/Snipa22/go-tari-grpc-lib/v3/tari_generated"
-	"github.com/Snipa22/go-tari-ootle-explorer/internal/db"
+	"github.com/Jagtech-Services/go-tari-grpc-lib/v3/tari_generated"
+	"github.com/Jagtech-Services/go-tari-ootle-explorer/internal/db"
 )
 
 // scanRange walks L1 blocks [fromHeight, toHeight] (inclusive) in ScanBatchSize-sized
