@@ -6,8 +6,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/Snipa22/go-tari-ootle-explorer/internal/db"
-	"github.com/Snipa22/go-tari-ootle-explorer/internal/registrymetaclient"
+	"github.com/Jagtech-Services/go-tari-ootle-explorer/internal/db"
+	"github.com/Jagtech-Services/go-tari-ootle-explorer/internal/registrymetaclient"
 )
 
 // TestSync_AgainstLiveMetadataServerAndRealPostgres is the real end-to-end

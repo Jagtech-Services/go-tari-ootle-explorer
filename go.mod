@@ -1,4 +1,4 @@
-module github.com/Snipa22/go-tari-ootle-explorer
+module github.com/Jagtech-Services/go-tari-ootle-explorer
 
 go 1.25.14
 
@@ -19,7 +19,7 @@ require (
 )
 
 require (
-	github.com/Snipa22/go-tari-grpc-lib/v3 v3.2.0
+	github.com/Jagtech-Services/go-tari-grpc-lib/v3 v3.5.0
 	github.com/jackc/pgpassfile v1.0.0 // indirect
 	github.com/jackc/pgservicefile v0.0.0-20240606120523-5a60cdf6a761 // indirect
 	github.com/jackc/puddle/v2 v2.2.2 // indirect

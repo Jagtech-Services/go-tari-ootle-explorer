@@ -1,5 +1,5 @@
-github.com/Snipa22/go-tari-grpc-lib/v3 v3.2.0 h1:cuXLsW2tfvdMGDbu/mwjGvgcEAEO086908n05rW5RPE=
-github.com/Snipa22/go-tari-grpc-lib/v3 v3.2.0/go.mod h1:PhFhxISrJsqnix9QDy16YuxpbpPEcQzFkixNtJftSx8=
+github.com/Jagtech-Services/go-tari-grpc-lib/v3 v3.5.0 h1:Ee0Xvlt1ZZxqwbfNnmVvUKY1D1JzHsu5sXwjVHh3bRk=
+github.com/Jagtech-Services/go-tari-grpc-lib/v3 v3.5.0/go.mod h1:u10EGCEfaamBMoCegJCf8VX2OIQYBoWTjTqRXwR0AtU=
 github.com/creack/pty v1.1.9/go.mod h1:oKZEueFk5CKHvIhNR5MUki03XCEU+Q6VDXinZuGJ33E=
 github.com/davecgh/go-spew v1.1.0/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
 github.com/davecgh/go-spew v1.1.1 h1:vj9j/u1bqnvCEfJOwUhtlOARqs3+rkHYY13jYWTU97c=
