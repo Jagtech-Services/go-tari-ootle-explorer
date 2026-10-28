@@ -11,7 +11,7 @@ info:
   version: "0.1.0"
   contact:
     name: go-tari-ootle-explorer
-    url: https://github.com/Snipa22/go-tari-ootle-explorer
+    url: https://github.com/Jagtech-Services/go-tari-ootle-explorer
 servers:
   - url: https://ootle-testnet.supportxtm.com
     description: Public testnet deployment
